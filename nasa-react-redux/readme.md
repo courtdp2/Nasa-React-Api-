@@ -1,21 +1,3 @@
-# Chapter 5!
+# NASA REACT REDUX
 
-https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-v-495dba627718
-
-## How to start
-
-```bash
-npm install
-```
-
-```
-npm run start
-```
-
-```
-npm run production
-```
-
-```
-npm run build
-```
+API to show the NASA picture of the day
